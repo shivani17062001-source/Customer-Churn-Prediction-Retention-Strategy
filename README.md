@@ -84,9 +84,11 @@ Enhance visualizations (e.g., interactive plots with Plotly).
 Test with new datasets.
 
 Follow the Code of Conduct. Questions? Open an issue!
+
 👨‍💼 Author
 Shivani Uppala
 Business Analyst with 4 years of experience bridging business needs and technical solutions across logistics, manufacturing, and financial services. Skilled in requirements gathering, BPMN process modeling, and impact analysis, with a proven record of driving process improvements through Lean Six Sigma and Kaizen methodologies. Proficient in SQL, Power BI, Tableau, and cloud platforms (AWS, Azure, GCP, Snowflake) to deliver data-driven insights and automation. Adept at stakeholder engagement, Agile methodologies, and compliance frameworks (SOX, HIPAA, AML), with strong analytical, problem-solving, and communication skills that consistently improve efficiency and business outcomes.
 LinkedIn Profile | 📧 Shivaniuppala034@gmail.com | ☎️ (475) 287-3249
+
 📜 License
 This project is licensed under the MIT License—see LICENSE for details.
